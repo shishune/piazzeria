@@ -1,0 +1,317 @@
+{"instructor-approved-1": {
+    "folders": ["ps1"],
+    "nr": 191,
+    "data": {
+      "embed_links": []
+    },
+    "created": "2019-09-26T15:48:23Z",
+    "bucket_order": 3,
+    "no_answer_followup": 0,
+    "change_log": [
+      {
+        "anon": "stud",
+        "data": "k10vgj9r3333k3",
+        "type": "create",
+        "when": "2019-09-26T15:48:23Z",
+        "uid_a": "a_0"
+      },
+      {
+        "anon": "stud",
+        "data": "k10vjn488xlr9",
+        "to": "k10vgj9op0e3k2",
+        "type": "s_answer",
+        "when": "2019-09-26T15:50:48Z",
+        "uid_a": "a_1"
+      },
+      {
+        "anon": "stud",
+        "to": "k10vgj9op0e3k2",
+        "type": "followup",
+        "when": "2019-09-26T17:22:14Z",
+        "uid_a": "a_2"
+      },
+      {
+        "anon": "stud",
+        "to": "k10vgj9op0e3k2",
+        "type": "feedback",
+        "when": "2019-09-26T17:29:20Z",
+        "uid_a": "a_1"
+      },
+      {
+        "anon": "no",
+        "uid": "j21f9egq1yh3fl",
+        "to": "k10vgj9op0e3k2",
+        "type": "feedback",
+        "when": "2019-09-26T20:15:18Z"
+      }
+    ],
+    "bucket_name": "Today",
+    "history": [
+      {
+        "anon": "stud",
+        "uid_a": "a_0",
+        "subject": "PS1 Q2: Constant functions?",
+        "created": "2019-09-26T15:48:23Z",
+        "content": "<p>Hi, I was wondering if we are allowed to use constant functions such as f(x)= 5 for our counterexamples. The question says any function, so I think it should be okay, please let me know if it is not the case. Thanks!</p>"
+      }
+    ],
+    "type": "question",
+    "tags": ["ps1", "student"],
+    "tag_good": [],
+    "unique_views": 158,
+    "children": [
+      {
+        "folders": [],
+        "data": {
+          "embed_links": []
+        },
+        "children": [],
+        "created": "2019-09-26T15:50:48Z",
+        "bucket_order": 3,
+        "tag_endorse": [
+          {
+            "role": "student",
+            "name": "Luca Baiocchi",
+            "endorser": {},
+            "admin": false,
+            "photo": null,
+            "id": "k0dgvzvm8o46g",
+            "photo_url": null,
+            "published": true,
+            "us": false,
+            "facebook_id": null
+          },
+          {
+            "role": "instructor",
+            "name": "Ivan Khatchatourian",
+            "endorser": {
+              "j70y7i3751e7ee": 1512062922,
+              "jvclmndn6o33l1": 1560735768,
+              "jyumkm04gce137": 1580365024
+            },
+            "admin": true,
+            "photo": null,
+            "id": "j21f9egq1yh3fl",
+            "photo_url": null,
+            "us": false,
+            "facebook_id": null
+          }
+        ],
+        "bucket_name": "Today",
+        "id": "k10vjn45udrr8",
+        "history": [
+          {
+            "anon": "stud",
+            "uid_a": "a_1",
+            "subject": "",
+            "created": "2019-09-26T15:50:48Z",
+            "content": "I believe it should be okay, I also used a constant function in one of my counterexamples. The only stated requirement for the functions is that they are real-valued."
+          }
+        ],
+        "type": "s_answer",
+        "tag_endorse_arr": ["k0dgvzvm8o46g", "j21f9egq1yh3fl"],
+        "config": {},
+        "is_tag_endorse": false
+      },
+      {
+        "anon": "stud",
+        "folders": [],
+        "data": {
+          "embed_links": null
+        },
+        "no_upvotes": 0,
+        "subject": "<p>Aren't all functions real-valued? <br />The only way I can see it is if ∀x is such that f(x) = undefined, but other than that, I can't think of any other function that would not be real-valued<br /><br />Am I missing something?</p>",
+        "created": "2019-09-26T17:22:14Z",
+        "bucket_order": 31,
+        "bucket_name": "Week 9/22 - 9/28",
+        "type": "followup",
+        "tag_good": [],
+        "uid_a": "a_2",
+        "children": [
+          {
+            "anon": "stud",
+            "folders": [],
+            "data": {
+              "embed_links": null
+            },
+            "subject": "I assume they just mean no vertical asymptotes, so f(x) must be defined on all real numbers x.",
+            "created": "2019-09-26T17:29:20Z",
+            "bucket_order": 31,
+            "bucket_name": "Week 9/22 - 9/28",
+            "type": "feedback",
+            "tag_good": [],
+            "uid_a": "a_1",
+            "children": [],
+            "tag_good_arr": [],
+            "id": "k10z2cmgyv67bk",
+            "updated": "2019-09-26T17:29:20Z",
+            "config": {}
+          },
+          {
+            "anon": "no",
+            "folders": [],
+            "data": {
+              "embed_links": null
+            },
+            "subject": "<p>A function is just a rule that assigns one output to each input.</p><p></p><p>The rule $$f$$ defined by $$f(\\text{Country}) = \\text{capital of Country}$$ is a function, for example, since each country has only one capital. $$f(\\text{Canada}) = \\text{Ottawa}$$!</p><p></p><p>In this course though, the functions we talk about take real inputs and have real outputs.</p>",
+            "created": "2019-09-26T20:15:18Z",
+            "bucket_order": 31,
+            "bucket_name": "Week 9/22 - 9/28",
+            "type": "feedback",
+            "tag_good": [],
+            "uid": "j21f9egq1yh3fl",
+            "children": [],
+            "tag_good_arr": [],
+            "id": "k114zs19xta58f",
+            "updated": "2019-09-26T20:15:18Z",
+            "config": {}
+          }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k10yt7sqn0gxm",
+        "updated": "2019-09-26T17:22:14Z",
+        "config": {}
+      }
+    ],
+    "tag_good_arr": [],
+    "no_answer": 0,
+    "id": "k10vgj9op0e3k2",
+    "config": {},
+    "status": "active",
+    "drafts": null,
+    "request_instructor": 0,
+    "request_instructor_me": false,
+    "bookmarked": 4,
+    "num_favorites": 0,
+    "my_favorite": false,
+    "is_bookmarked": false,
+    "is_tag_good": false,
+    "q_edits": [],
+    "i_edits": [],
+    "s_edits": [],
+    "t": 1699126688600,
+    "default_anonymity": "no"
+  }
+  ,
+"instructor-answered-1": {
+    "folders": ["ps1"],
+    "nr": 190,
+    "data": {
+      "embed_links": []
+    },
+    "created": "2019-09-26T15:26:30Z",
+    "bucket_order": 3,
+    "no_answer_followup": 0,
+    "change_log": [
+      {
+        "anon": "stud",
+        "data": "k10uoeaddnb1i",
+        "type": "create",
+        "when": "2019-09-26T15:26:30Z",
+        "uid_a": "a_0"
+      },
+      {
+        "anon": "stud",
+        "data": "k10vpb5xx921w",
+        "to": "k10uoeaaqf61h",
+        "type": "s_answer",
+        "when": "2019-09-26T15:55:13Z",
+        "uid_a": "a_1"
+      },
+      {
+        "anon": "no",
+        "uid": "j21f9egq1yh3fl",
+        "data": "k114wpdb2wl1dy",
+        "to": "k10uoeaaqf61h",
+        "type": "i_answer",
+        "when": "2019-09-26T20:12:54Z"
+      }
+    ],
+    "bucket_name": "Today",
+    "history": [
+      {
+        "anon": "stud",
+        "uid_a": "a_0",
+        "subject": "PS1 Q2",
+        "created": "2019-09-26T15:26:30Z",
+        "content": "<p>For the problem set, can one assume something like e^x is never negative, or do we have to prove it?\\xa0</p>"
+      }
+    ],
+    "type": "question",
+    "tags": ["ps1", "student"],
+    "tag_good": [],
+    "unique_views": 158,
+    "children": [
+      {
+        "folders": [],
+        "data": {
+          "embed_links": []
+        },
+        "children": [],
+        "created": "2019-09-26T15:55:13Z",
+        "bucket_order": 3,
+        "tag_endorse": [],
+        "bucket_name": "Today",
+        "id": "k10vpb5umjb1v",
+        "history": [
+          {
+            "anon": "stud",
+            "uid_a": "a_1",
+            "subject": "",
+            "created": "2019-09-26T15:55:13Z",
+            "content": "Well we know from exponent rules that a^(-x) = 1/(a^x) and since in this case the base, e, is positive, I don't think it needs to be proven."
+          }
+        ],
+        "type": "s_answer",
+        "tag_endorse_arr": [],
+        "config": {},
+        "is_tag_endorse": false
+      },
+      {
+        "folders": [],
+        "data": {
+          "embed_links": []
+        },
+        "children": [],
+        "created": "2019-09-26T20:12:54Z",
+        "bucket_order": 3,
+        "tag_endorse": [],
+        "bucket_name": "Today",
+        "id": "k114wpda4431dx",
+        "history": [
+          {
+            "anon": "no",
+            "uid": "j21f9egq1yh3fl",
+            "subject": "",
+            "created": "2019-09-26T20:12:54Z",
+            "content": "<p>That specific fact does not need to be proved, no.\\xa0</p>"
+          }
+        ],
+        "type": "i_answer",
+        "tag_endorse_arr": [],
+        "config": {},
+        "is_tag_endorse": false
+      }
+    ],
+    "tag_good_arr": [],
+    "no_answer": 0,
+    "id": "k10uoeaaqf61h",
+    "config": {},
+    "status": "active",
+    "drafts": null,
+    "request_instructor": 0,
+    "request_instructor_me": false,
+    "bookmarked": 3,
+    "num_favorites": 0,
+    "my_favorite": false,
+    "is_bookmarked": false,
+    "is_tag_good": false,
+    "q_edits": [],
+    "i_edits": [],
+    "s_edits": [],
+    "t": 1699127110865,
+    "default_anonymity": "no"
+  }
+  
+}
