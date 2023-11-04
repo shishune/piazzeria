@@ -1,21 +1,26 @@
 import "./App.css";
+import React, { useState, useEffect } from 'react'
 
 function App() {
+
+  const [data, setData] = useState([])
+
+  useEffect(() => {
+    fetch("http://localhost:8080/members")
+      .then((response) => response.json())
+      .then((data) => {
+        // message = 'Loading'
+        // once data is retrieved
+        // message = data.message
+        setData(data);
+      }).catch(err => console.log(err));
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {data.members ? data.members.map((person, index) => (
+        <div key={index}>{person}</div>
+      )) : <p>Loading...</p>}
     </div>
   );
 }
