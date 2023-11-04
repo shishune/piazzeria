@@ -13,10 +13,11 @@ Run app
 Starting server
 - `cd server`
 - `python -m venv venv`
+- `venv\Scripts\activate`
 - `should see green (venv) ->`
 - `pip install Flask`
 - `pip install flask-cors`
-- `^ should be done once`
+- `aoove commands should be done once`
 - `python server.py`
 
 Website should open at http://localhost:3000/
