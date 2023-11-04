@@ -2,12 +2,12 @@
 
 ## Set-Up
 
-    $ cd piazzeria
+`cd piazzeria/piazzeria`
 
-    # Install dependencies
-    $ npm install
+Install dependencies
+`npm install`
 
-    # Run app
-    $ npm start
+Run app
+`npm start`
 
-    # Website should open at http://localhost:3000/
+Website should open at http://localhost:3000/
