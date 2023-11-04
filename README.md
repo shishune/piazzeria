@@ -4,7 +4,10 @@
 
     $ cd piazzeria
 
+    # Install dependencies
+    $ npm install
+
     # Run app
     $ npm start
 
-    # View website at http://localhost:3000/
+    # Website should open at http://localhost:3000/
