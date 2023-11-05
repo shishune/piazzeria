@@ -55,13 +55,13 @@ def get_folder_posts(class_id, folder_name):
     
     response = co.generate(
       model='command',
-      prompt="clean the text so each question has an answer:" + str(post_details[1:]),
+      prompt="clean the text so each question has an answer:" + str(sorted_post_details[1:]),
       temperature=0.9,
       k=0,
       stop_sequences=[],
       return_likelihoods='NONE')
     #print('Prediction: {}'.format(response.generations[0].text))
-    output_data = Prediction: {}'.format(response.generations[0].text
+    output_data = 'Prediction: {}'.format(response.generations[0].text)
 
     return output_data
 
