@@ -1,0 +1,56 @@
+.PostEntryOpen {
+    display: flex;
+    justify-content: space-between;
+    background-color: gainsboro;
+    width: 25vw;
+    height: auto;
+    text-align: left;
+    border-radius: 5%;
+    padding: 5px 10px;
+
+    .PizzaSliceContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2px 2px;
+        .PizzaSlice {
+            transform: rotate(275deg);
+            width: 30px;
+            height: 30px;
+        }
+    }
+}
+
+.PostEntryClose {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: gainsboro;
+    width: 25vw;
+    height: auto;
+    text-align: left;
+    border-radius: 5%;
+    padding: 5px 10px;
+    .QuestionContainer{
+        display: flex;
+        justify-content: space-between;
+
+        .PizzaSliceContainer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 2px 2px;
+            .PizzaSlice {
+                width: 30px;
+                height: 30px;
+            }
+        }
+    }
+
+    .AnswerContainer{
+        background-color: aliceblue;
+        padding: 5px 10px;
+        border-radius: 5%;
+    }
+}
+
