@@ -5,7 +5,7 @@ const title = "Q1.1";
 const questionName = "Why is this website pizza themed?";
 const studentAnswer = ":)";
 const instructorAnswer = ":D";
-const linkToQuestion = "";
+const linkToQuestion = 1566;
 
 function PostEntry() {
   const [isOpen, setIsOpen] = useState(true);
@@ -50,10 +50,21 @@ function PostEntry() {
         </p>
       </div>
       <p className="AnswerContainer">
+        <strong>
+          <i>Student's Answer: </i>
+        </strong>
         {studentAnswer}
         <br />
-        {instructorAnswer}
-        {linkToQuestion}
+        <strong>
+          <i>Instructor's Answer: </i>
+        </strong>
+        {instructorAnswer}(
+        <a
+          href={`https://piazza.com/class/jyumkm04gce137/post/${linkToQuestion}`}
+        >
+          @{linkToQuestion}
+        </a>
+        )
       </p>
     </div>
   );
