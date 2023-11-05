@@ -2,7 +2,7 @@
     display: flex;
     gap: 10px;
     background-color: #cfdcf8;
-    width: 47vw;
+    width: 92%;
     height: auto;
     text-align: left;
     border-style: ridge;
@@ -10,6 +10,7 @@
     border-color: white;
     border-width: 2px;
     padding: 5px 10px;
+    margin-bottom: 1rem;
 
     .PizzaSliceContainer {
         display: flex;
@@ -29,7 +30,7 @@
     flex-direction: column;
     justify-content: space-between;
     background-color: #cfdcf8;
-    width: 47vw;
+    width: 92%;
     height: auto;
     text-align: left;
     border-style: ridge;
@@ -37,6 +38,8 @@
     border-color: white;
     border-width: 2px;
     padding: 5px 10px;
+    margin-bottom: 1rem;
+
     .QuestionContainer{
         display: flex;
         gap: 10px;
@@ -59,4 +62,3 @@
         border-radius: 5%;
     }
 }
-

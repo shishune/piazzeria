@@ -1,3 +1,14 @@
 .App {
-  font-family: cursive;
+  margin: 0;
+  padding: 0 0 1rem 0;
+  /* padding-left:  1rem; */
+  /* height: 100%; */
+  
 }
+
+html {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(#e66465, #9198e5);
+  background-size:contain;
+ }

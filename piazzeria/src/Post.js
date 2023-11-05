@@ -19,6 +19,10 @@ function Post({ isRAQOpen, setIsRAQOpen }) {
         <div className="PostBox">
           <PostEntry />
           <PostEntry />
+          <PostEntry />
+          <PostEntry />
+          <PostEntry />
+          <PostEntry />
         </div>
       </div>
     </div>

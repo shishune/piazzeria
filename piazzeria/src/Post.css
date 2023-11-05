@@ -19,7 +19,8 @@
             margin-top: 10px;
             margin-left: 25px;
             height: 450px;
-            overflow-y: scroll;
+            overflow-y: auto;
+            overflow-x: hidden;
         }
     }
 }
