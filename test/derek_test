@@ -1,0 +1,18 @@
+# pip install cohere
+
+import cohere
+
+api_key = "PeCmHb0BGFJIEfHlNsxRLDPyvXTxsa168UAR0WSD"
+
+co = cohere.Client(api_key)
+
+input_data = "some data"
+
+response = co.generate(
+  model='command',
+  prompt="rewrite the following questions so they are gramatically correct:" + input_data,
+  temperature=0.9,
+  k=0,
+  stop_sequences=[],
+  return_likelihoods='NONE')
+print('Prediction: {}'.format(response.generations[0].text))
