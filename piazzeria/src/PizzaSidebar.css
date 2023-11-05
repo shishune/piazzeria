@@ -1,0 +1,57 @@
+/* pizza-outline = #dd8126
+pizza-border = orange
+pizza-bg-color = #ffeb3b
+slice-line-color = #e8d83a
+pepperoni-color = #ea5353
+pepperoni-color-dark = darken(pepperoni-color, 20%)
+olive-color = #455a64
+olive-color-dark = darken(olive-color, 20%)
+basil-color = #4caf50 */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.pizza-sidebar {
+    width: 10rem;
+    height: 32rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    margin-left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    overflow-y:auto;
+    direction: rtl;
+  }
+  
+  .pizza  {
+    width: 8rem;
+    height: 8rem;
+    border: 0.2rem solid orange; /* Pizza outline color */
+    box-shadow: 0 0 0 0.4rem #dd8126;
+    border-radius: 50%;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #fff; /* Text color */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    direction: ltr;
+    background:
+        radial-gradient(farthest-side,#ce4b4b 32%,#ce4b4b 90% ,#e8d83a 93%, #e8d83a 96%) left center/1rem 1rem; 
+    background-color: #e8d83a; /* Slice line color */ 
+  }
+  
+  /* Add the following for each pepperoni to position them randomly */
+  
+  .pizza:hover {
+    background:
+        radial-gradient(farthest-side,#ce4b4b 32%,#ce4b4b 90% ,#ffeb3b 93%, #ffeb3b 96%) left center/1rem 1rem;
+  }
