@@ -5,7 +5,10 @@
     width: 25vw;
     height: auto;
     text-align: left;
-    border-radius: 5%;
+    border-style: ridge;
+    border-radius: 1%;
+    border-color: white;
+    border-width: 2px;
     padding: 5px 10px;
 
     .PizzaSliceContainer {
@@ -29,7 +32,10 @@
     width: 25vw;
     height: auto;
     text-align: left;
-    border-radius: 5%;
+    border-style: ridge;
+    border-radius: 1%;
+    border-color: white;
+    border-width: 2px;
     padding: 5px 10px;
     .QuestionContainer{
         display: flex;

@@ -4,9 +4,21 @@ import "./Post.css";
 function Post() {
   return (
     <div className="Post">
-      <img className="PostBackground" src="box.png" alt="Open Pizza Box" />
-      <div className="PostBox">
-        <PostEntry />
+      <div className="PostBackground">
+        <div className="CloseButtonContainer">
+          <input
+            type="image"
+            className="CloseButton"
+            src="xout.png"
+            alt="Close Button. Fork and Knife on Plate"
+            width="32"
+            height="32"
+          />
+        </div>
+        <div className="PostBox">
+          <PostEntry />
+          <PostEntry />
+        </div>
       </div>
     </div>
   );

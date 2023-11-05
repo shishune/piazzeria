@@ -21,7 +21,7 @@ function PostEntry() {
         <img
           className="PizzaSlice"
           src="slice.png"
-          alt="A Single Pizza Slice"
+          alt="A Single Pizza Slice Facing East"
         />
       </div>
       <p className="Question">
@@ -41,7 +41,7 @@ function PostEntry() {
           <img
             className="PizzaSlice"
             src="slice.png"
-            alt="A Single Pizza Slice"
+            alt="A Single Pizza Slice Tilted Down"
           />
         </div>
         <p className="Question">
