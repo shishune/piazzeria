@@ -21,11 +21,11 @@ function App() {
 
   return (
     <div className="App">
-      {data.members ? (
+      {/* {data.members ? (
         data.members.map((person, index) => <div key={index}>{person}</div>)
       ) : (
         <></>
-      )}
+      )} */}
       <PizzaSidebar isRAQOpen={isRAQOpen} setIsRAQOpen={setIsRAQOpen} />
       <Post isRAQOpen={isRAQOpen} setIsRAQOpen={setIsRAQOpen} />
     </div>
