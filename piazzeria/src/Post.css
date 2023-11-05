@@ -2,6 +2,7 @@
     width: fit-content;
     height: fit-content;
     margin-left: 15rem;
+    margin-top: 5rem;
 
     .PostBackground{
         width: 55vw;
@@ -19,7 +20,7 @@
             margin-top: 10px;
             margin-left: 25px;
             height: 450px;
-            overflow-y: scroll;
+            overflow-y: auto;
         }
     }
 }

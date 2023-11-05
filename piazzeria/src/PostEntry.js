@@ -60,6 +60,8 @@ function PostEntry() {
         </strong>
         {instructorAnswer}(
         <a
+          target="_blank"
+          rel="noreferrer"
           href={`https://piazza.com/class/jyumkm04gce137/post/${linkToQuestion}`}
         >
           @{linkToQuestion}

@@ -10,6 +10,7 @@
     border-color: white;
     border-width: 2px;
     padding: 5px 10px;
+    margin-bottom: 1rem;
 
     .PizzaSliceContainer {
         display: flex;
@@ -37,6 +38,8 @@
     border-color: white;
     border-width: 2px;
     padding: 5px 10px;
+    margin-bottom: 1rem;
+
     .QuestionContainer{
         display: flex;
         gap: 10px;
