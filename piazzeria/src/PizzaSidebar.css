@@ -45,13 +45,13 @@ ul {
     transition: background-color 0.3s;
     direction: ltr;
     background:
-        radial-gradient(farthest-side,#ce4b4b 32%,#ce4b4b 90% ,#e8d83a 93%, #e8d83a 96%) left center/1rem 1rem; 
+        radial-gradient(farthest-side,#ce4b4b 32%,#ce4b4b 90% ,#e8d83a 93%, #e8d83a 96%) center/1.5rem 1.5rem; 
     background-color: #e8d83a; /* Slice line color */ 
+    vertical-align: text-top;
   }
   
-  /* Add the following for each pepperoni to position them randomly */
   
   .pizza:hover {
     background:
-        radial-gradient(farthest-side,#ce4b4b 32%,#ce4b4b 90% ,#ffeb3b 93%, #ffeb3b 96%) left center/1rem 1rem;
+        radial-gradient(farthest-side,#ce4b4b 32%,#ce4b4b 90% ,#ffeb3b 93%, #ffeb3b 96%) center/1.75rem 1.75rem; 
   }
