@@ -2,7 +2,7 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 from piazza_api import Piazza
 import piazza_fun
-
+import cohere
 
 
 # app instance
@@ -48,8 +48,22 @@ def get_folder_posts(class_id, folder_name):
     post_details = piazza_fun.get_post_details_list(course, good_feed_posts_list)
     sorted_post_details = sorted(post_details, key=lambda x: x['endorsers_num'], reverse=True)
 
+    #derek's code below
+    api_key = "PeCmHb0BGFJIEfHlNsxRLDPyvXTxsa168UAR0WSD"
 
-    return post_details
+    co = cohere.Client(api_key)
+    
+    response = co.generate(
+      model='command',
+      prompt="clean the text so each question has an answer:" + str(post_details[1:]),
+      temperature=0.9,
+      k=0,
+      stop_sequences=[],
+      return_likelihoods='NONE')
+    #print('Prediction: {}'.format(response.generations[0].text))
+    output_data = Prediction: {}'.format(response.generations[0].text
+
+    return output_data
 
 
 if __name__ == "__main__":
