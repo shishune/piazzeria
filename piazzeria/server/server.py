@@ -23,7 +23,10 @@ def get_classes():
     p.user_login("Eryka.shishun@mail.utoronto.ca", "newhacks2023")
 
     return p.get_user_classes()
-    
+
+@app.route("/<int:class_id>", methods=['GET'])
+def get_foldera(class_id):
+    return piazza_fun.get_all_folders(class_id)
 
 @app.route("/<int:class_id>/<str:folder_name>", methods=['GET'])
 def get_folder_posts(class_id, folder_name):
