@@ -1,5 +1,7 @@
 import "./App.css";
 import React, { useState, useEffect } from 'react'
+import PizzaSidebar from './PizzaSidebar'; // Import the sidebar component
+
 
 function App() {
 
@@ -18,9 +20,10 @@ function App() {
 
   return (
     <div className="App">
-      {data.members ? data.members.map((person, index) => (
+      <PizzaSidebar />
+      {/* {data.members ? data.members.map((person, index) => (
         <div key={index}>{person}</div>
-      )) : <p>Loading...</p>}
+      )) : <p>Loading...</p>} */}
     </div>
   );
 }
