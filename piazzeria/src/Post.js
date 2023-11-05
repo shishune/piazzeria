@@ -1,8 +1,8 @@
 import PostEntry from "./PostEntry";
 import "./Post.css";
 
-function Post() {
-  return (
+function Post({ isRAQOpen, setIsRAQOpen }) {
+  return isRAQOpen ? (
     <div className="Post">
       <div className="PostBackground">
         <div className="CloseButtonContainer">
@@ -13,6 +13,7 @@ function Post() {
             alt="Close Button. Fork and Knife on Plate"
             width="32"
             height="32"
+            onClick={() => setIsRAQOpen(false)}
           />
         </div>
         <div className="PostBox">
@@ -21,6 +22,8 @@ function Post() {
         </div>
       </div>
     </div>
+  ) : (
+    <></>
   );
 }
 

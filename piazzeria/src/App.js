@@ -1,9 +1,11 @@
+import PizzaSidebar from "./PizzaSidebar.js";
 import Post from "./Post.js";
 import "./App.css";
 import React, { useState, useEffect } from "react";
 
 function App() {
   const [data, setData] = useState([]);
+  const [isRAQOpen, setIsRAQOpen] = useState(false);
 
   useEffect(() => {
     fetch("http://localhost:8080/members")
@@ -24,7 +26,8 @@ function App() {
       ) : (
         <></>
       )}
-      <Post />
+      <PizzaSidebar isRAQOpen={isRAQOpen} setIsRAQOpen={setIsRAQOpen} />
+      <Post isRAQOpen={isRAQOpen} setIsRAQOpen={setIsRAQOpen} />
     </div>
   );
 }
