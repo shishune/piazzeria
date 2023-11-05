@@ -312,6 +312,133 @@
     "s_edits": [],
     "t": 1699127110865,
     "default_anonymity": "no"
+  }, 
+  "good-question": {
+    "folders": ["ps1"],
+    "nr": 154,
+    "data": {
+      "embed_links": []
+    },
+    "created": "2019-09-23T20:55:10Z",
+    "bucket_order": 3,
+    "no_answer_followup": 0,
+    "change_log": [
+      {
+        "anon": "no",
+        "uid": "k07j5hwiw7s5h4",
+        "data": "k0ww3i0b61a4pk",
+        "type": "create",
+        "when": "2019-09-23T20:55:10Z"
+      },
+      {
+        "anon": "no",
+        "uid": "j21f9egq1yh3fl",
+        "data": "k0yaflwbbda4jl",
+        "to": "k0ww3i09a794pj",
+        "type": "i_answer",
+        "when": "2019-09-24T20:24:16Z"
+      },
+      {
+        "anon": "no",
+        "uid": "j21f9egq1yh3fl",
+        "data": "k0yaqhgw74g3tg",
+        "type": "i_answer_update",
+        "when": "2019-09-24T20:32:43Z"
+      }
+    ],
+    "bucket_name": "Today",
+    "history": [
+      {
+        "anon": "no",
+        "uid": "k07j5hwiw7s5h4",
+        "subject": "Problem Set 1 #2d",
+        "created": "2019-09-23T20:55:10Z",
+        "content": "<p><img src='/redirect/s3?bucket=uploads&prefix=attach%2Fjyumkm04gce137%2Fk07j5hwiw7s5h4%2Fk0ww0y3voyns%2FScreen_Shot_20190923_at_4.52.19_PM.png' alt='' /></p>\n<p>Are the x and y in the first part of the statement equivalent to the x and y on the second part of the statement? Or are the x and y in the part |f(x)-g(x)| < |f(y) - g(y)| just arbitrary numbers?</p>"
+      }
+    ],
+    "type": "question",
+    "tags": ["ps1", "student"],
+    "tag_good": [
+      {
+        "role": "student",
+        "name": "Valeria Khudiakova",
+        "endorser": {
+          "jzoggyfcpuq1jh": 1570199287
+        },
+        "admin": false,
+        "photo": null,
+        "id": "k06jhv6jcae40",
+        "photo_url": null,
+        "us": false,
+        "facebook_id": null
+      },
+      {
+        "role": "student",
+        "name": "Ivy Houang",
+        "endorser": {},
+        "admin": false,
+        "photo": null,
+        "id": "jzy8gwhk5gpzn",
+        "photo_url": null,
+        "published": true,
+        "us": false,
+        "facebook_id": null
+      }
+    ],
+    "unique_views": 271,
+    "children": [
+      {
+        "folders": [],
+        "data": {
+          "embed_links": []
+        },
+        "children": [],
+        "created": "2019-09-24T20:24:16Z",
+        "bucket_order": 3,
+        "tag_endorse": [],
+        "bucket_name": "Today",
+        "id": "k0yaflw9rei4jk",
+        "history": [
+          {
+            "anon": "no",
+            "uid": "j21f9egq1yh3fl",
+            "subject": "",
+            "created": "2019-09-24T20:32:43Z",
+            "content": "<p>I'm not sure what you're asking. $$x$$ and $$y$$ are symbols representing numbers, and so they can't be 'equivalent' to anything.</p>\n<p></p>\n<p>The quantifiers are what give the symbols meaning, so if the statement is still unclear to you, review what we've taught about quantifiers.</p>\n<p></p>\n<p>The one thing to maybe emphasize is that the quantifiers quantify all the variables in the statement. In other words, it should be read like this:</p>\n<p></p>\n<blockquote>\n<p>For all $$x \\in \\mathbb{R}$$, there exists $$y \\in \\mathbb{R}$$ such that $$\\Big[$$ $$x < y$$ and $$|f(x) - g(x)| < |f(y) - g(y)|$$ $$\\Big]$$.</p>\n</blockquote>\n<p></p>\n<p></p>"
+          },
+          {
+            "anon": "no",
+            "uid": "j21f9egq1yh3fl",
+            "subject": "",
+            "created": "2019-09-24T20:32:43Z",
+            "content": "<p>I'm not sure what you're asking. $$x$$ and $$y$$ are symbols representing numbers, and so they can't be 'equivalent' to anything.</p>\n<p></p>\n<p>The quantifiers are what give the symbols meaning, so if the statement is still unclear to you, review what we've taught about quantifiers and conditional statements.</p>\n<p></p>\n<p>The one thing to maybe emphasize is that the quantifiers quantify all the variables in the conditional. In other words, it should be read like this:</p>\n<p></p>\n<p>For all $$x \\in \\mathbb{R}$$, there exists $$y \\in \\mathbb {R}$$ such that $$\\Big[$$ $$x < y$$ and $$|f(x) - g(x)| < |f(y) - g(y)|$$ $$\\Big]$$.</p>\n<p></p>\n<p></p>"
+          }
+        ],
+        "type": "i_answer",
+        "tag_endorse_arr": [],
+        "config": {},
+        "is_tag_endorse": false
+      }
+    ],
+    "tag_good_arr": ["k06jhv6jcae40", "jzy8gwhk5gpzn"],
+    "no_answer": 0,
+    "id": "k0ww3i09a794pj",
+    "config": {},
+    "status": "active",
+    "drafts": null,
+    "request_instructor": 0,
+    "request_instructor_me": false,
+    "bookmarked": 3,
+    "num_favorites": 0,
+    "my_favorite": false,
+    "is_bookmarked": false,
+    "is_tag_good": false,
+    "q_edits": [],
+    "i_edits": [],
+    "s_edits": [],
+    "t": 1699142951055,
+    "default_anonymity": "no"
   }
+  
   
 }

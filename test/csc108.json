@@ -1,0 +1,1670 @@
+{
+    "0": {
+        "folders": [
+            "exam"
+        ],
+        "nr": 1597,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-15T23:34:02Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k47nbilbv145l8",
+                "type": "create",
+                "when": "2019-12-15T23:34:02Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "j7qh0rq120777o",
+                "data": "k47nj24g2yo4x4",
+                "to": "k47nbil88wi5l7",
+                "type": "s_answer",
+                "when": "2019-12-15T23:39:54Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "About final exam",
+                "created": "2019-12-15T23:34:02Z",
+                "content": "<p><span style=\"display:!important;text-align:left;text-decoration:none\">I wonder when the final grade will be released?</span></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "exam",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Yu Xue",
+                "endorser": {
+                    "jze9t3lhrrr29h": 1574879465,
+                    "k4x6fyq98ktyv": 1579110404,
+                    "global": 1580749974
+                },
+                "admin": false,
+                "photo": "1572367991_200.jpg",
+                "id": "k0e78m82btc5uh",
+                "photo_url": "https://d1b10bmlvqabco.cloudfront.net/photos/k0e78m82btc5uh/1572367991_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Zeyun Deng",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "k0a915707aq6gz",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            },
+            {
+                "role": "student",
+                "name": "Ryan Green",
+                "endorser": {},
+                "admin": false,
+                "photo": "1567743317_200.jpg",
+                "id": "jzxkfqyipi11fs",
+                "photo_url": "https://d1b10bmlvqabco.cloudfront.net/photos/jzxkfqyipi11fs/1567743317_200.jpg",
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 283,
+        "children": [
+            {
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "children": [],
+                "created": "2019-12-15T23:39:54Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Ryan Green",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": "1567743317_200.jpg",
+                        "id": "jzxkfqyipi11fs",
+                        "photo_url": "https://d1b10bmlvqabco.cloudfront.net/photos/jzxkfqyipi11fs/1567743317_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "id": "k47nj24cjnv4x3",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "j7qh0rq120777o",
+                        "subject": "",
+                        "created": "2019-12-15T23:39:54Z",
+                        "content": "<p>Not sure if the instructors will post the final mark on Quercus, but just for the final grade in general, the grade can be viewed on Acorn after the break.</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "jzxkfqyipi11fs"
+                ],
+                "config": {},
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "k0e78m82btc5uh",
+            "k0a915707aq6gz",
+            "jzxkfqyipi11fs"
+        ],
+        "no_answer": 0,
+        "id": "k47nbil88wi5l7",
+        "config": {
+            "seen": {
+                "1404": 2,
+                "1415": 7,
+                "1514": 9,
+                "1443": 0,
+                "1596": 8,
+                "1297": 6,
+                "1021": 4,
+                "1591": 1,
+                "1419": 5,
+                "1418": 3
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614639,
+        "default_anonymity": "no"
+    },
+    "1": {
+        "folders": [
+            "other"
+        ],
+        "nr": 1598,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-19T21:41:12Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k4d91ss0k1i4vj",
+                "type": "create",
+                "when": "2019-12-19T21:41:12Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "k085t5eyvnng1",
+                "data": "k4dacxzw3sj5ua",
+                "to": "k4d91srx9go4vi",
+                "type": "s_answer",
+                "when": "2019-12-19T22:17:51Z"
+            },
+            {
+                "anon": "no",
+                "uid": "k085t5eyvnng1",
+                "data": "k4dadhafqnm642",
+                "type": "s_answer_update",
+                "when": "2019-12-19T22:18:16Z"
+            },
+            {
+                "anon": "no",
+                "uid": "k085t5eyvnng1",
+                "data": "k4dadxy6hzl6rt",
+                "type": "s_answer_update",
+                "when": "2019-12-19T22:18:38Z"
+            },
+            {
+                "anon": "no",
+                "uid": "k085t5eyvnng1",
+                "data": "k4daggden3iiw",
+                "type": "s_answer_update",
+                "when": "2019-12-19T22:20:35Z"
+            },
+            {
+                "anon": "no",
+                "uid": "k0bx1hq4v4967d",
+                "to": "k4d91srx9go4vi",
+                "type": "followup",
+                "when": "2019-12-20T15:56:08Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Inquiry on further python study",
+                "created": "2019-12-19T21:41:12Z",
+                "content": "<p>I wonder how I can continue further python study if I&#39;m not able to take 148 (possible only during summer so I&#39;m not so sure). Any online material or something suggested? Thanks to your teaching, I really find python very fun!</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Aaron Edward Pinto",
+                "endorser": {
+                    "jku4loh5loz3f0": 1540162182
+                },
+                "admin": false,
+                "photo": null,
+                "id": "j7fijbtfdt42qz",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 202,
+        "children": [
+            {
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "children": [],
+                "created": "2019-12-19T22:17:51Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Edwin Jiang",
+                        "endorser": {
+                            "jzoggyfcpuq1jh": 1569992103
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "k02wqyu7egw69o",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "id": "k4dacxzsprc5u9",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "k085t5eyvnng1",
+                        "subject": "",
+                        "created": "2019-12-19T22:20:35Z",
+                        "content": "Codecademy comes to mind, but it really only teaches you the basics, which is similar to what we have been taught already.<div><br /></div><div>Codewars is a great platform for attempting to solve challenges using a programming language of your choice.</div><div><br /></div><div>But in my personal opinion, the best way to learn more about the language is to build something with it. When working on projects, you&#39;ll generally become stuck if you don&#39;t understand a certain concept, or you continually optimize your programs based on things you learn. Along the way, you&#39;ll most likely learn how to use popular libraries, improve readability, and understand better methods of debugging. Plus, you get to make something by yourself (or with a team of others), something you can be proud of.</div><div><br /></div><div>So go ahead, ask questions, look at the open source projects of others (on GitHub for example) and have some fun with the language!</div>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "k085t5eyvnng1",
+                        "subject": "",
+                        "created": "2019-12-19T22:18:38Z",
+                        "content": "Codecademy comes to mind, but it really only teaches you the basics, which is similar to what we have been taught already.<div><br /></div><div>Codewars is a great platform for attempting to solve challenges using a programming language of your choice.</div><div><br /></div><div>But in my personal opinion, the best way to learn more about the language is to build something with it. When working on projects, you&#39;ll generally become stuck if you don&#39;t understand a certain concept, or you continually optimize your programs based on things you learn. Along the way, you&#39;ll most likely learn how to use popular libraries, improve readability, and understand better methods of debugging. Plus, you get to make something by yourself (or with a team of others), something you can be proud of.</div><div><br /></div><div>So go ahead and have some fun with the language!</div>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "k085t5eyvnng1",
+                        "subject": "",
+                        "created": "2019-12-19T22:18:16Z",
+                        "content": "Codecademy comes to mind, but it really only teaches you the basics, which is similar to what we have been taught already.<div><br /></div><div>Codewars is a great platform for attempting to solve challenges using a programming language of your choice.</div><div><br /></div><div>But in my personal opinion, the best way to learn more about the language is to build something with it. When working on projects, you&#39;ll generally become stuck if you don&#39;t understand a certain concept, or you continually optimize your programs based on things you learn. Along the way, you&#39;ll most likely learn how to use popular libraries, improve readability, and understand better methods of debugging. Plus, you get to make something by yourself, something you can be proud of.</div><div><br /></div><div>So go ahead and have some fun with the language!</div>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "k085t5eyvnng1",
+                        "subject": "",
+                        "created": "2019-12-19T22:17:51Z",
+                        "content": "Codecademy comes to mind, but it really only teaches you the basics, which is similar to what we have been taught already.<div><br /></div><div>Codewars is a great platform for attempting to solve challenges using a programming language of your choice.</div><div><br /></div><div>But in my personal opinion, the best way to learn more about the language is to build something with it. When working on projects, you&#39;ll generally become stuck if you don&#39;t understand a certain concept, or you continually optimize your programs based on things you learn along the way. Along the way, you&#39;ll most likely learn how to use popular libraries, improve readability, and understand better methods of debugging. Plus, you get to make something by yourself, something you can be proud of.</div><div><br /></div><div>So go ahead and have some fun with the language!</div>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "k02wqyu7egw69o"
+                ],
+                "config": {},
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "no",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>I would personally recommend using LinkedIn learning to find short courses on certain use cases for Python (for example I took this course on writing python programs efficiently where I learnt about interesting list comprehensions and shortening of loops).</p>\n<p>LinkedIn learning is free if you follow the steps for a free student account.</p>",
+                "created": "2019-12-20T15:56:08Z",
+                "bucket_order": 14,
+                "bucket_name": "Week 12/15 - 12/21",
+                "type": "followup",
+                "tag_good": [],
+                "uid": "k0bx1hq4v4967d",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "k4ec5wgbgtu22h",
+                "updated": "2019-12-20T15:56:08Z",
+                "config": {}
+            }
+        ],
+        "tag_good_arr": [
+            "j7fijbtfdt42qz"
+        ],
+        "no_answer": 0,
+        "id": "k4d91srx9go4vi",
+        "config": {
+            "seen": {
+                "12": 4,
+                "24": 1,
+                "14": 5,
+                "465": 8,
+                "960": 6,
+                "545": 9,
+                "666": 2,
+                "192": 7,
+                "1250": 3,
+                "1470": 0
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 1,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614680,
+        "default_anonymity": "no"
+    },
+    "2": {
+        "folders": [
+            "other"
+        ],
+        "nr": 1599,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-19T22:10:24Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k4da3cpihyr3n1",
+                "type": "create",
+                "when": "2019-12-19T22:10:24Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "k0bx1hq4v4967d",
+                "data": "k4ecchqerai2el",
+                "to": "k4da3cpfwvy3n0",
+                "type": "s_answer",
+                "when": "2019-12-20T16:01:15Z"
+            },
+            {
+                "anon": "no",
+                "uid": "k0bx1hq4v4967d",
+                "data": "k4ecfo1jbmc3vh",
+                "type": "s_answer_update",
+                "when": "2019-12-20T16:03:44Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "what&#39;s the relationship between sys and wing?",
+                "created": "2019-12-19T22:10:24Z",
+                "content": "<p>.</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "other",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 193,
+        "children": [
+            {
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "children": [],
+                "created": "2019-12-20T16:01:15Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "id": "k4ecchqa72l2ek",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "k0bx1hq4v4967d",
+                        "subject": "",
+                        "created": "2019-12-20T16:03:44Z",
+                        "content": "<p>sys is a python module while wing is an IDE. </p>\n<p>sys is used by &#34;interpreter&#34; programs which is contained within an IDE. </p>\n<p>An IDE is something that puts together all aspects of programming into an easy, convenient window (the part where you write a file and execute it. Usually the command prompt is used to execute such files because there is no &#34;console&#34; for a text editor)</p>\n<p>Importing sys can help you interact with the interpreter and change stuff like &#34;recursion limit&#34; (read about recursive algorithms to understand this) and much more so that you have control on how the program is executed.</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "k0bx1hq4v4967d",
+                        "subject": "",
+                        "created": "2019-12-20T16:01:15Z",
+                        "content": "<p>sys is a python module while wing is an IDE. </p>\n<p>sys is used by &#34;interpreter&#34; programs which is contained within an IDE. </p>\n<p>An IDE is something that puts together all aspects of programming into an easy, convenient window (the part where you write a file and execute it. Usually the command prompt is used to execute such files because there is no &#34;console&#34; for a text editor)</p>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [],
+                "config": {},
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k4da3cpfwvy3n0",
+        "config": {
+            "seen": {
+                "819": 2,
+                "543": 8,
+                "379": 1,
+                "841": 9,
+                "17": 6,
+                "899": 7,
+                "1073": 0,
+                "97": 5,
+                "10": 4,
+                "87": 3
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614726,
+        "default_anonymity": "no"
+    },
+    "3": {
+        "folders": [
+            "exam"
+        ],
+        "nr": 1600,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-20T22:47:15Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k4equltr8315t1",
+                "type": "create",
+                "when": "2019-12-20T22:47:15Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "gx396bv3rf45ny",
+                "data": "k4erzg5o7hv3ai",
+                "to": "k4equltp6en5t0",
+                "type": "i_answer",
+                "when": "2019-12-20T23:19:01Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Final exam",
+                "created": "2019-12-20T22:47:15Z",
+                "content": "When we are able to see our final exam paper as we may need it for regrading?"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 305,
+        "children": [
+            {
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "children": [],
+                "created": "2019-12-20T23:19:01Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "id": "k4erzg5km6b3ag",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "gx396bv3rf45ny",
+                        "subject": "",
+                        "created": "2019-12-20T23:19:01Z",
+                        "content": "<p>The Faculty of Arts and Science has a process in place for viewing exams:</p>\n<p><a href=\"https://www.artsci.utoronto.ca/current/faculty-registrar/exams/exam-viewing\">https://www.artsci.utoronto.ca/current/faculty-registrar/exams/exam-viewing</a></p>\n<p></p>\n<p></p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [],
+                "config": {},
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k4equltp6en5t0",
+        "config": {},
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614766,
+        "default_anonymity": "no"
+    },
+    "4": {
+        "folders": [
+            "exam"
+        ],
+        "nr": 1601,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-21T17:36:29Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k4fv6squjha23y",
+                "type": "create",
+                "when": "2019-12-21T17:36:29Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "k4fv955h5ds495",
+                "to": "k4fv6sqr3eo23x",
+                "type": "s_answer",
+                "when": "2019-12-21T17:38:18Z",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "stud",
+                "data": "k4gg78nw274zm",
+                "type": "s_answer_update",
+                "when": "2019-12-22T03:24:41Z",
+                "uid_a": "a_2"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Is the mark on Acorn my actual overall final mark?",
+                "created": "2019-12-21T17:36:29Z",
+                "content": "<p><strong>I </strong>just sew my csc108 mark on acorn was updated.</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "exam",
+            "student"
+        ],
+        "tag_good": [
+            {
+                "role": "student",
+                "name": "Siming",
+                "endorser": {},
+                "admin": false,
+                "photo": null,
+                "id": "k3pf98al1q9ti",
+                "photo_url": null,
+                "published": true,
+                "us": false,
+                "facebook_id": null
+            }
+        ],
+        "unique_views": 316,
+        "children": [
+            {
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "children": [],
+                "created": "2019-12-21T17:38:18Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Spencer Locke",
+                        "endorser": {
+                            "jze9t3lhrrr29h": 1572264027
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "k05v6kw6mhy5tg",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Yu Xue",
+                        "endorser": {
+                            "jze9t3lhrrr29h": 1574879465,
+                            "k4x6fyq98ktyv": 1579110404,
+                            "global": 1580749974
+                        },
+                        "admin": false,
+                        "photo": "1572367991_200.jpg",
+                        "id": "k0e78m82btc5uh",
+                        "photo_url": "https://d1b10bmlvqabco.cloudfront.net/photos/k0e78m82btc5uh/1572367991_200.jpg",
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Siming",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "k3pf98al1q9ti",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "id": "k4fv955dabl494",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_2",
+                        "subject": "",
+                        "created": "2019-12-22T03:24:41Z",
+                        "content": "<p>Yes.</p>\n<p>Edit: For future reference, all marks that are posted on ACORN have been approved by the department and are FINAL unless you decide to go through the ArtSci re-mark process.</p>"
+                    },
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2019-12-21T17:38:18Z",
+                        "content": "Yes"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "k05v6kw6mhy5tg",
+                    "k0e78m82btc5uh",
+                    "k3pf98al1q9ti"
+                ],
+                "config": {},
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [
+            "k3pf98al1q9ti"
+        ],
+        "no_answer": 0,
+        "id": "k4fv6sqr3eo23x",
+        "config": {
+            "seen": {
+                "176": 5,
+                "520": 8,
+                "49": 7,
+                "1597": 1,
+                "6": 0,
+                "90": 3,
+                "404": 6,
+                "1274": 2,
+                "241": 4
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614807,
+        "default_anonymity": "no"
+    },
+    "5": {
+        "folders": [
+            "exam"
+        ],
+        "nr": 1602,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-21T20:52:23Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k4g26q5a9oa15y",
+                "type": "create",
+                "when": "2019-12-21T20:52:23Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "k0sgy0cjd2x14e",
+                "data": "k4g28pq2u8k24d",
+                "to": "k4g26q57ud715x",
+                "type": "s_answer",
+                "when": "2019-12-21T20:53:55Z"
+            },
+            {
+                "anon": "stud",
+                "to": "k4g26q57ud715x",
+                "type": "followup",
+                "when": "2019-12-23T04:56:03Z",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "no",
+                "uid": "k0sgy0cjd2x14e",
+                "to": "k4g26q57ud715x",
+                "type": "feedback",
+                "when": "2019-12-23T05:04:15Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "were the marks adjusted for the exam?",
+                "created": "2019-12-21T20:52:23Z",
+                "content": "<p></p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 343,
+        "children": [
+            {
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "children": [],
+                "created": "2019-12-21T20:53:55Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Purumidha Sharma",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "k013rmikmav2ew",
+                        "photo_url": null,
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Spencer Locke",
+                        "endorser": {
+                            "jze9t3lhrrr29h": 1572264027
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "k05v6kw6mhy5tg",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "id": "k4g28ppy7ep24c",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "k0sgy0cjd2x14e",
+                        "subject": "",
+                        "created": "2019-12-21T20:53:55Z",
+                        "content": "Probably not. You can go in for an exam viewing to verify."
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "k013rmikmav2ew",
+                    "k05v6kw6mhy5tg"
+                ],
+                "config": {},
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>how to go in for exam viewing?</p>",
+                "created": "2019-12-23T04:56:03Z",
+                "bucket_order": 13,
+                "bucket_name": "Week 12/22 - 12/28",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_1",
+                "children": [
+                    {
+                        "anon": "no",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "Check out &#64;1600",
+                        "created": "2019-12-23T05:04:15Z",
+                        "bucket_order": 13,
+                        "bucket_name": "Week 12/22 - 12/28",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid": "k0sgy0cjd2x14e",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "k4hz74regq65xr",
+                        "updated": "2019-12-23T05:04:15Z",
+                        "config": {}
+                    }
+                ],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "k4hywlfxnai4bs",
+                "updated": "2019-12-23T04:56:03Z",
+                "config": {}
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k4g26q57ud715x",
+        "config": {
+            "seen": {
+                "220": 6,
+                "1568": 1,
+                "1601": 9,
+                "332": 3,
+                "731": 4,
+                "70": 0,
+                "527": 8,
+                "529": 5,
+                "470": 2,
+                "905": 7
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614849,
+        "default_anonymity": "no"
+    },
+    "6": {
+        "history_size": 2,
+        "folders": [
+            "exam"
+        ],
+        "nr": 1427,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-08T16:40:49Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k3x8h539q6v26x",
+                "type": "create",
+                "when": "2019-12-08T16:40:49Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "",
+                "uid": "k013rmikmav2ew",
+                "data": "k3x8hzelnt24y5",
+                "type": "update",
+                "when": "2019-12-08T16:41:28Z",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "stud",
+                "to": "k3x8h538faz26t",
+                "type": "followup",
+                "when": "2019-12-08T16:53:07Z",
+                "uid_a": "a_2"
+            },
+            {
+                "anon": "stud",
+                "to": "k3x8h538faz26t",
+                "type": "followup",
+                "when": "2019-12-08T16:59:25Z",
+                "uid_a": "a_0"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "",
+                "uid": "k013rmikmav2ew",
+                "uid_a": "a_1",
+                "subject": "Final",
+                "created": "2019-12-08T16:41:28Z",
+                "content": "I kind of forgot how we find the first occurrence, I figured the last occurence but I&#39;m not sure what im doing wrong here. <div><br /></div><div>Is there a way I could do this as a whole loop too, i just wanted to know couple of ways using for loop and while loop. <br /><div>Thank you </div><div><img src=\"/redirect/s3?bucket=uploads&amp;prefix=attach%2Fjze9t3lhrrr29h%2Fk013rmikmav2ew%2Fk3x8g27otpls%2F20191208_113918.jpg\" /><p></p><br /></div></div>"
+            },
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Final",
+                "created": "2019-12-08T16:40:49Z",
+                "content": "I kind of forgot how we find the first occurrence, I figured the last occurence but I&#39;m not sure what im doing wrong here. <div><br /></div><div>Is there a way I could do this as a whole loop too, i just wanted to know couple of ways using for loop and while loop. <br /><div>Thank you </div><div><img src=\"/redirect/s3?bucket=uploads&amp;prefix=attach%2Fjze9t3lhrrr29h%2Fk013rmikmav2ew%2Fk3x8g27otpls%2F20191208_113918.jpg\" /><p></p><br /></div></div>"
+            }
+        ],
+        "type": "note",
+        "tags": [
+            "exam",
+            "student",
+            "unanswered"
+        ],
+        "tag_good": [],
+        "unique_views": 63,
+        "children": [
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>another way you could possibly do it is in the following:</p>\n<p></p>\n<p>for i in range(len(s)):</p>\n<p>    if s[i].isdigit():</p>\n<p>        return i</p>\n<p></p>\n<p>return -1</p>\n<p></p>\n<p>basically, it goes through all the characters in the string and checks if they are a digit. if it is a digit, it will return the index of it. if there is not any digits in string, then it will return a -1</p>",
+                "created": "2019-12-08T16:53:07Z",
+                "bucket_order": 67,
+                "bucket_name": "Week 12/8 - 12/14",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_2",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "k3x8wycdg0225n",
+                "updated": "2019-12-08T16:53:07Z",
+                "config": {}
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "Thank you ",
+                "created": "2019-12-08T16:59:25Z",
+                "bucket_order": 67,
+                "bucket_name": "Week 12/8 - 12/14",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_0",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "k3x952n2hut3jk",
+                "updated": "2019-12-08T16:59:25Z",
+                "config": {}
+            }
+        ],
+        "tag_good_arr": [],
+        "id": "k3x8h538faz26t",
+        "config": {},
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614892,
+        "default_anonymity": "no"
+    },
+    "7": {
+        "history_size": 1,
+        "folders": [
+            "exam"
+        ],
+        "nr": 1428,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-08T17:10:04Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k3x9irejf193gq",
+                "type": "create",
+                "when": "2019-12-08T17:10:04Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "k3x9jgrcsm94n0",
+                "to": "k3x9irehzdx3gp",
+                "type": "s_answer",
+                "when": "2019-12-08T17:10:37Z",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "stud",
+                "to": "k3x9irehzdx3gp",
+                "type": "followup",
+                "when": "2019-12-08T17:11:02Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "h6xwhxb1xjs2qg",
+                "data": "k3x9y2q4ym25zj",
+                "to": "k3x9irehzdx3gp",
+                "type": "i_answer",
+                "when": "2019-12-08T17:21:59Z"
+            },
+            {
+                "anon": "no",
+                "uid": "h6xwhxb1xjs2qg",
+                "data": "k3xa40g79ep6sg",
+                "type": "i_answer_update",
+                "when": "2019-12-08T17:26:36Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Range function",
+                "created": "2019-12-08T17:10:04Z",
+                "content": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=attach%2Fjze9t3lhrrr29h%2Fjm5d0mal7kf6rf%2Fk3x9g9kytvkv%2FScreen_Shot_20191208_at_12.07.44_PM.png\" alt=\"\" />Doesn&#39;t both the cases do the same thing..like iterate the whole list? why do we use range of the Len? like can someone explain the difference? I dont really understand when to use what</p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 49,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2019-12-08T17:10:37Z",
+                "bucket_order": 3,
+                "tag_endorse": [],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2019-12-08T17:10:37Z",
+                        "content": "Which paper is this?"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [],
+                "children": [],
+                "id": "k3x9jgr93vx4mz",
+                "config": {},
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "<p>Winter 2016 </p>",
+                "created": "2019-12-08T17:11:02Z",
+                "bucket_order": 209,
+                "bucket_name": "Week 12/8 - 12/14",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_0",
+                "children": [],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "k3x9k04clm84fn",
+                "updated": "2019-12-08T17:12:04Z",
+                "config": {}
+            },
+            {
+                "history_size": 2,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2019-12-08T17:21:59Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "",
+                        "name": "Purumidha Sharma",
+                        "endorser": {
+                            "kx47tj4fmy65dg": 1647389327
+                        },
+                        "admin": false,
+                        "photo": null,
+                        "id": "k013rmikmav2ew",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "h6xwhxb1xjs2qg",
+                        "subject": "",
+                        "created": "2019-12-08T17:26:36Z",
+                        "content": "<p>There is more than one way to loop through the elements inside an iterable object (such as a list). See Week 5 on Quercus lectures. In particular, there is a Python file called ways_to_loop that you can find under the Jen and Mario columns. Keep an eye out on when/why you would use each kind of loop.</p>\n<p></p>\n<p>In this scenario, I would also recommend running it through the Python visualizer. For the first for loop, keep an eye on what happens to &#34;message&#34; and &#34;message_list&#34; objects.</p>"
+                    },
+                    {
+                        "anon": "no",
+                        "uid": "h6xwhxb1xjs2qg",
+                        "subject": "",
+                        "created": "2019-12-08T17:21:59Z",
+                        "content": "<p>There is more than one way to loop through the elements inside an iterable object (such as a list). See Week 5 on Quercus lectures. In particular, there is a Python file called ways_to_loop that you can find under the Jen and Mario columns.</p>\n<p></p>\n<p>In this scenario, however, I would recommend running it through the Python visualizer. For the first for loop, keep an eye on what happens to &#34;message&#34; and &#34;message_list&#34; objects.</p>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "k013rmikmav2ew"
+                ],
+                "children": [],
+                "id": "k3x9y2q3mzk5zi",
+                "config": {},
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k3x9irehzdx3gp",
+        "config": {
+            "seen": {
+                "22": 4,
+                "1242": 5,
+                "1063": 1,
+                "590": 6,
+                "691": 7,
+                "451": 6,
+                "298": 2,
+                "474": 1,
+                "595": 3,
+                "870": 8,
+                "431": 9,
+                "1136": 7,
+                "1279": 9,
+                "1312": 5,
+                "1354": 2,
+                "1353": 1,
+                "613": 5,
+                "515": 8,
+                "639": 1,
+                "717": 7,
+                "1418": 5,
+                "916": 7,
+                "719": 8,
+                "36": 2,
+                "19": 6,
+                "1132": 6,
+                "161": 3,
+                "162": 2,
+                "242": 1,
+                "662": 5,
+                "1423": 0,
+                "400": 2,
+                "1048": 4,
+                "302": 8,
+                "668": 3,
+                "767": 3,
+                "823": 6,
+                "945": 8,
+                "308": 4
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 5,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614933,
+        "default_anonymity": "no"
+    },
+    "8": {
+        "history_size": 1,
+        "folders": [
+            "prepare"
+        ],
+        "nr": 1429,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-08T18:45:37Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k3xcxn75hqn2ug",
+                "type": "create",
+                "when": "2019-12-08T18:45:37Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "no",
+                "uid": "i4olhz05xrm7dy",
+                "data": "k3xenca5sx3518",
+                "to": "k3xcxn72iio2uf",
+                "type": "i_answer",
+                "when": "2019-12-08T19:33:36Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "Return value of list.pop() within a method",
+                "created": "2019-12-08T18:45:37Z",
+                "content": "<p>I notice that there is a difference between when I call list.pop() within a method vs. within just the python shell. When I call a method containing list.pop() within it, it does remove the object at list[-1], but I do not see the value printed within the python shell and it instead returns NoneType. However, if I call list.pop() in the python shell, I do get a value returned.</p>\n<p></p>\n<p>I understand that to get a value returned when I cal list.pop() in a method, I have to write return list.pop(). However, I do not understand why this is the case and I am confused because my belief is that list.pop() itself is supposed to return something other than NoneType. </p>\n<p></p>\n<p>Could someone please explain the difference to me? Thank you. </p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "prepare",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 38,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2019-12-08T19:33:36Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "student",
+                        "name": "Amanda Anqi Mao",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "j7h16rgg2o74q7",
+                        "photo_url": null,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "no",
+                        "uid": "i4olhz05xrm7dy",
+                        "subject": "",
+                        "created": "2019-12-08T19:33:36Z",
+                        "content": "<p>Remember, that when you type a line of code into the shell, it displays the output to the screen.</p>\n<p>But when you <em>run</em> your code, it only displays any values you have it <em>print.</em></p>\n<p><em></em></p>\n<p><em></em></p>\n<p>One quick example - note that nothing is displayed when you execute an assignment statement in the shell.</p>\n<pre>&gt;&gt;&gt; lst = [1,2,3]\n&gt;&gt;&gt; lst.pop() #returned value from pop() gets displayed\n3\n&gt;&gt;&gt; x = lst.pop() #returned value not displayed since assigned to x\n&gt;&gt;&gt; x\n2</pre>"
+                    }
+                ],
+                "type": "i_answer",
+                "tag_endorse_arr": [
+                    "j7h16rgg2o74q7"
+                ],
+                "children": [],
+                "id": "k3xenca1czc517",
+                "config": {},
+                "is_tag_endorse": false
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k3xcxn72iio2uf",
+        "config": {
+            "seen": {
+                "908": 7,
+                "1284": 8,
+                "1162": 4,
+                "692": 5,
+                "297": 9,
+                "353": 9,
+                "673": 9,
+                "730": 7,
+                "1212": 3,
+                "534": 1,
+                "535": 2,
+                "557": 0,
+                "931": 1,
+                "836": 8,
+                "916": 1,
+                "1339": 4,
+                "819": 7,
+                "1176": 7,
+                "1392": 3,
+                "1072": 8,
+                "1391": 7,
+                "483": 1,
+                "143": 1,
+                "1206": 6,
+                "441": 3,
+                "442": 1,
+                "761": 8,
+                "1149": 1,
+                "1347": 4,
+                "1402": 4,
+                "685": 9,
+                "1148": 5,
+                "1224": 7,
+                "468": 1,
+                "622": 2,
+                "447": 2,
+                "843": 8,
+                "986": 4,
+                "1342": 7,
+                "81": 1,
+                "702": 2,
+                "627": 1,
+                "925": 5,
+                "1407": 5,
+                "1428": 9
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 4,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134614977,
+        "default_anonymity": "no"
+    },
+    "9": {
+        "history_size": 1,
+        "folders": [
+            "exam"
+        ],
+        "nr": 1430,
+        "data": {
+            "embed_links": []
+        },
+        "created": "2019-12-08T19:38:13Z",
+        "bucket_order": 3,
+        "no_answer_followup": 0,
+        "change_log": [
+            {
+                "anon": "stud",
+                "data": "k3xet9qm22b10z",
+                "type": "create",
+                "when": "2019-12-08T19:38:13Z",
+                "uid_a": "a_0"
+            },
+            {
+                "anon": "stud",
+                "data": "k3xfl0in3s3404",
+                "to": "k3xet9qks8g10y",
+                "type": "s_answer",
+                "when": "2019-12-08T19:59:47Z",
+                "uid_a": "a_1"
+            },
+            {
+                "anon": "stud",
+                "to": "k3xet9qks8g10y",
+                "type": "followup",
+                "when": "2019-12-08T21:15:09Z",
+                "uid_a": "a_2"
+            },
+            {
+                "anon": "no",
+                "uid": "h6xwhxb1xjs2qg",
+                "to": "k3xet9qks8g10y",
+                "type": "feedback",
+                "when": "2019-12-08T22:50:42Z"
+            }
+        ],
+        "bucket_name": "Today",
+        "history": [
+            {
+                "anon": "stud",
+                "uid_a": "a_0",
+                "subject": "EXAM question on range",
+                "created": "2019-12-08T19:38:13Z",
+                "content": "<p><img src=\"/redirect/s3?bucket=uploads&amp;prefix=attach%2Fjze9t3lhrrr29h%2Fjlvc94n1s1m2dw%2Fk3xess5wjp3a%2FScreen_Shot_20191208_at_2.34.57_PM.png\" alt=\"\" />can some explain he answer to this. Thanks </p>"
+            }
+        ],
+        "type": "question",
+        "tags": [
+            "exam",
+            "student"
+        ],
+        "tag_good": [],
+        "unique_views": 58,
+        "children": [
+            {
+                "history_size": 1,
+                "folders": [],
+                "data": {
+                    "embed_links": []
+                },
+                "created": "2019-12-08T19:59:47Z",
+                "bucket_order": 3,
+                "tag_endorse": [
+                    {
+                        "role": "instructor",
+                        "name": "Jonathan Calver",
+                        "endorser": {},
+                        "admin": true,
+                        "photo": "1616448187_200.jpg",
+                        "id": "i4olhz05xrm7dy",
+                        "photo_url": "https://cdn-uploads.piazza.com/photos/i4olhz05xrm7dy/1616448187_200.jpg",
+                        "us": false,
+                        "facebook_id": null
+                    },
+                    {
+                        "role": "student",
+                        "name": "Sana",
+                        "endorser": {},
+                        "admin": false,
+                        "photo": null,
+                        "id": "jlvc94n1s1m2dw",
+                        "photo_url": null,
+                        "published": true,
+                        "us": false,
+                        "facebook_id": null
+                    }
+                ],
+                "bucket_name": "Today",
+                "history": [
+                    {
+                        "anon": "stud",
+                        "uid_a": "a_1",
+                        "subject": "",
+                        "created": "2019-12-08T19:59:47Z",
+                        "content": "The first for loop is running from 0 to 1 (because 2 is not inclusive) and the inner for loop is also running from 0 to 1. So total of 4 iterations.<div>First it will print (0,0)</div><div>Then (0,1)</div><div>Then (1,0)</div><div>And lastly (1,1) </div><div><br /></div>"
+                    }
+                ],
+                "type": "s_answer",
+                "tag_endorse_arr": [
+                    "i4olhz05xrm7dy",
+                    "jlvc94n1s1m2dw"
+                ],
+                "children": [],
+                "id": "k3xfl0ikwbi403",
+                "config": {},
+                "is_tag_endorse": false
+            },
+            {
+                "anon": "stud",
+                "folders": [],
+                "data": {
+                    "embed_links": null
+                },
+                "no_upvotes": 0,
+                "subject": "Cant we just put {} empty instead of putting numbers in it?",
+                "created": "2019-12-08T21:15:09Z",
+                "bucket_order": 180,
+                "bucket_name": "Week 12/8 - 12/14",
+                "type": "followup",
+                "tag_good": [],
+                "uid_a": "a_2",
+                "children": [
+                    {
+                        "anon": "no",
+                        "folders": [],
+                        "data": {
+                            "embed_links": null
+                        },
+                        "subject": "<p>Yes, it is also possible to use {}.</p>",
+                        "created": "2019-12-08T22:50:42Z",
+                        "bucket_order": 180,
+                        "bucket_name": "Week 12/8 - 12/14",
+                        "type": "feedback",
+                        "tag_good": [],
+                        "uid": "h6xwhxb1xjs2qg",
+                        "children": [],
+                        "tag_good_arr": [],
+                        "id": "k3xlotgar1j16k",
+                        "updated": "2019-12-08T22:50:42Z",
+                        "config": {}
+                    }
+                ],
+                "tag_good_arr": [],
+                "no_answer": 0,
+                "id": "k3xi9y23x6840m",
+                "updated": "2019-12-08T22:50:44Z",
+                "config": {}
+            }
+        ],
+        "tag_good_arr": [],
+        "no_answer": 0,
+        "id": "k3xet9qks8g10y",
+        "config": {
+            "seen": {
+                "1063": 2,
+                "570": 6,
+                "210": 6,
+                "453": 8,
+                "530": 5,
+                "652": 2,
+                "313": 1,
+                "639": 0,
+                "1419": 2,
+                "1417": 6,
+                "1174": 0,
+                "581": 5,
+                "561": 7,
+                "584": 4,
+                "1205": 2,
+                "784": 7,
+                "1049": 4,
+                "1367": 3,
+                "566": 1,
+                "984": 3,
+                "502": 8,
+                "722": 4,
+                "1001": 8,
+                "526": 9,
+                "769": 5,
+                "748": 0,
+                "64": 6,
+                "1428": 4
+            }
+        },
+        "status": "active",
+        "drafts": null,
+        "request_instructor": 0,
+        "request_instructor_me": false,
+        "bookmarked": 6,
+        "num_favorites": 0,
+        "my_favorite": false,
+        "is_bookmarked": false,
+        "is_tag_good": false,
+        "q_edits": [],
+        "i_edits": [],
+        "s_edits": [],
+        "t": 1699134615020,
+        "default_anonymity": "no"
+    }
+}
