@@ -16,3 +16,31 @@ response = co.generate(
   stop_sequences=[],
   return_likelihoods='NONE')
 print('Prediction: {}'.format(response.generations[0].text))
+
+#updated code below
+
+input_data = {
+    "q1": "questiontext1",
+    "q2": "questiontext2"
+}
+
+updated_data = {}  # Initialize an empty dictionary for the updated questions
+
+for key, question in input_data.items():
+    prompt = f"rewrite the following question so it is grammatically correct: {question}"
+    
+    response = co.generate(
+        model='command',
+        prompt=prompt,
+        temperature=0.9,
+        k=0,
+        stop_sequences=[],
+        return_likelihoods='NONE'
+    )
+    
+    updated_question = response.generations[0].text.strip()  # Get the generated question
+    
+    updated_data[key] = updated_question
+
+print("Updated Dictionary:")
+print(updated_data)
