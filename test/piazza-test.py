@@ -3,15 +3,19 @@ from piazza_api import Piazza
 import json
 import pandas 
 
+def login():
+    p = Piazza()
+    p.user_login("Eryka.shishun@mail.utoronto.ca", "newhacks2023")
+    return p
 
-p = Piazza()
-p.user_login("Eryka.shishun@mail.utoronto.ca", "newhacks2023")
-
+p = login()
 # Email: Eryka.shishun@mail.utoronto.ca
 # Password: newhacks2023
 
 user_profile = p.get_user_profile()
 # print(user_profile)
+classes = p.get_user_classes()
+print(classes)
 
 mat137  = p.network("jyumkm04gce137")
 
@@ -114,10 +118,10 @@ def find_credible_filtered_posts(posts_list, good_q=True):
 # print(type(feed_posts))
 
 
-feed_posts_list = find_credible_filtered_posts(feed_posts, good_q=False)
+# feed_posts_list = find_credible_filtered_posts(feed_posts, good_q=False)
 # print(feed_posts_list)
 
-good_feed_posts_list = find_credible_filtered_posts(feed_posts)
+# good_feed_posts_list = find_credible_filtered_posts(feed_posts)
 # print(good_feed_posts_list)
 
 def find_endorsed_student_answer(children_list):
@@ -158,8 +162,7 @@ def get_post_details_list(course, post_ids_list):
     return post_details_list
         
 print("\n\n")
-post_details = get_post_details_list(mat137, good_feed_posts_list)
-print(post_details)
+# post_details =ls)
 
 
 
