@@ -54,6 +54,8 @@ def find_instructor_answer(children_list):
         if child["type"] == "i_answer":
             return child["history"][0]["content"]
 
+
+
 def get_post_details_list(course, post_ids_list):
     post_details_list = []
     for post_id in post_ids_list:
@@ -65,6 +67,7 @@ def get_post_details_list(course, post_ids_list):
         post_details["question"] = post_info["history"][0]["content"]
         post_details["s_answer"] = find_endorsed_student_answer(post_info["children"])
         post_details["i_answer"] = find_instructor_answer(post_info["children"])
+        post_details["endorsers_num"] = len(post_info["tag_good_arr"])
         post_details_list.append(post_details)
         
         # post_details[""] = post_info[""]

@@ -10,9 +10,13 @@ app = Flask(__name__)
 CORS(app)
 
 # /api/home
-@app.route("/", methods=['GET'])
+# @app.route("/", methods=['GET'])
+# def index():
+#     return "Hello Piazza"
+
+@app.route("/credits", methods=['GET'])
 def index():
-    return "Hello Piazza"
+    return "By Derek Eryka Grace Kevin"
 
 # class ClassnNetwork(Resource):
 #     def login(email, password):
@@ -28,7 +32,7 @@ def get_classes():
 def get_foldera(class_id):
     return piazza_fun.get_all_folders(class_id)
 
-@app.route("/<int:class_id>/<str:folder_name>", methods=['GET'])
+@app.route("/<int:class_id>/<string:folder_name>", methods=['GET'])
 def get_folder_posts(class_id, folder_name):
     p = Piazza()
     p.user_login("Eryka.shishun@mail.utoronto.ca", "newhacks2023")
@@ -42,6 +46,7 @@ def get_folder_posts(class_id, folder_name):
     
     good_feed_posts_list = piazza_fun.find_credible_filtered_posts(feed_posts)
     post_details = piazza_fun.get_post_details_list(course, good_feed_posts_list)
+    sorted_post_details = sorted(post_details, key=lambda x: x['endorsers_num'], reverse=True)
 
 
     return post_details

@@ -12,10 +12,10 @@ p = login()
 # Email: Eryka.shishun@mail.utoronto.ca
 # Password: newhacks2023
 
-user_profile = p.get_user_profile()
+# user_profile = p.get_user_profile()
 # print(user_profile)
-classes = p.get_user_classes()
-print(classes)
+# classes = p.get_user_classes()
+# print(classes)
 
 mat137  = p.network("jyumkm04gce137")
 
@@ -156,14 +156,17 @@ def get_post_details_list(course, post_ids_list):
         post_details["question"] = post_info["history"][0]["content"]
         post_details["s_answer"] = find_endorsed_student_answer(post_info["children"])
         post_details["i_answer"] = find_instructor_answer(post_info["children"])
+        post_details["endorsers_num"] = len(post_info["tag_good_arr"])
         post_details_list.append(post_details)
         
         # post_details[""] = post_info[""]
+    print(sorted(post_details_list, key=lambda x: x['endorsers_num'], reverse=True))
     return post_details_list
         
 print("\n\n")
 # post_details =ls)
-
+good_feed_posts_list = find_credible_filtered_posts(feed_posts)
+post_details = get_post_details_list(mat137, good_feed_posts_list)
 
 
 
